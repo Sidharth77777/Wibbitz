@@ -1,0 +1,12 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "Wibbitz",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm start",
+    "build" : "cp index.html build/index.html" 
+  },
+  "author": "Sid",
+  "license": "ISC"
+}
